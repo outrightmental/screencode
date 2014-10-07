@@ -9,12 +9,12 @@ Screenplay is the source code of film. We seek to create a tool for the new mill
 
 Screencode is a 2-part epoxy made of two existing technologies that computer programmers have been using to write together efficiently for years:
 
-** Part 1. [Fountain](http://fountain.io/) (based on [Markdown](http://daringfireball.net/projects/markdown/))
+## Part 1. [Fountain](http://fountain.io/) (based on [Markdown](http://daringfireball.net/projects/markdown/))
 
 Fountain is a simple markup syntax for writing, editing and sharing screenplays in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer or tablet, using any software that edits text files.
 Taking its cues from John Gruber’s [Markdown](http://daringfireball.net/projects/markdown/), Fountain files are eminently readable. When special syntax is required, it is straightforward and intuitive.
 
-** Part 2. [Git](http://git-scm.com/)
+## Part 2. [Git](http://git-scm.com/)
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 ## Installation
