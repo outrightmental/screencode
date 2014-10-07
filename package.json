@@ -1,0 +1,32 @@
+{
+  "name": "screencode",
+  "version": "0.0.1",
+  "description": "An easy-to-use command line interface for Screencoding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/outrightmental/screencode.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Nick Kaye <nick.c.kaye@gmail.com> (http://www.nickkaye.com/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/outrightmental/screencode/blob/master/LICENSE-MIT"
+    }
+  ],  
+  "bugs": {
+    "url": "https://github.com/outrightmental/screencode/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.16.2",
+    "chai": "~1.8.1"
+  }
+}
