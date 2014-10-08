@@ -5,7 +5,7 @@ An easy-to-use command line interface for **Screencoding**.
 
 Computer programmers are writers, and they have perfected the art of writing in groups.  Computer programmers write together efficiently in groups using a tool called **Source Code Version Control**.
 
-Screenplay is the source code of film. We seek to create a tool for the new millenium of screen writing, **Screencode**
+Screenplay is the source code of film. We seek to create a tool for the new millennium of screen writing, **Screencode**
 
 Screencode is a 2-part epoxy made of two existing technologies that computer programmers have been using to write together efficiently for years:
 
