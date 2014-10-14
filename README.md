@@ -3,7 +3,7 @@ Screencode
 
 [![NPM](https://nodei.co/npm/screencode.png?compact=true)](https://nodei.co/npm/screencode/)
 
-[![Build Status](http://img.shields.io/travis/outrightmental/screencode.svg)](https://travis-ci.org/outrightmental/screencode) [![NPM](http://img.shields.io/npm/v/npm.svg)](https://www.npmjs.org/package/screencode) ![MIT License](http://img.shields.io/npm/l/express.svg)
+[![Build Status](http://img.shields.io/travis/outrightmental/screencode.svg)](https://travis-ci.org/outrightmental/screencode) [![NPM](http://img.shields.io/node/v/npm.svg)](https://www.npmjs.org/package/screencode) [![Issues](http://img.shields.io/github/issues/badges/shields.svg)](https://github.com/outrightmental/screencode/issues)  ![MIT License](http://img.shields.io/npm/l/express.svg)
 
 An easy-to-use command line interface for **Screencoding**.
 
