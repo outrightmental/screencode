@@ -1,6 +1,6 @@
 {
   "name": "screencode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An easy-to-use command line interface for Screencoding.",
   "main": "index.js",
   "scripts": {
@@ -21,12 +21,19 @@
       "type": "MIT",
       "url": "https://github.com/outrightmental/screencode/blob/master/LICENSE-MIT"
     }
-  ],  
+  ],
   "bugs": {
     "url": "https://github.com/outrightmental/screencode/issues"
+  },
+  "dependencies": {
+    "cli":"~0.6.4"
   },
   "devDependencies": {
     "mocha": "~1.16.2",
     "chai": "~1.8.1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "screencode" : "lib/screencode.js"
   }
 }
