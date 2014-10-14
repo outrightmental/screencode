@@ -1,6 +1,12 @@
 Screencode
 ==========
 
+[![NPM](https://nodei.co/npm/screencode.png?compact=true)](https://nodei.co/npm/screencode/)
+
+[![Build Status](http://img.shields.io/travis/outrightmental/screencode.svg)](https://travis-ci.org/outrightmental/screencode)
+
+[![NPM](http://img.shields.io/npm/v/npm.svg)](https://www.npmjs.org/package/screencode)
+
 An easy-to-use command line interface for **Screencoding**.
 
 Computer programmers are writers, and they have perfected the art of writing in groups.  Computer programmers write together efficiently in groups using a tool called **Source Code Version Control**.
